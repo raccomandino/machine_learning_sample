@@ -73,11 +73,6 @@ fig.show()
    jupyter notebook
    ```
 
-## Resources
-
-- [Part 1: Python for Machine Learning Visualization](https://www.kaggle.com/code/pythonafroz/python-for-machine-learning-visualization-part-01)
-- [Part 2: Advanced Visualizations](https://www.kaggle.com/code/pythonafroz/python-for-machine-learning-visualization-part-03)
-
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
