@@ -1,6 +1,6 @@
 # Machine Learning Data Visualization Sample Evaluation
 
-This repository showcases various approaches to visualizing machine learning data using Python. It includes examples of scatter plots, bar charts, pie charts, histograms, and advanced techniques like sunburst charts and radar plots. These visualizations help understand patterns, trends, and insights in datasets.
+This repository showcases various approaches to visualizing machine learning data using Python. It includes examples of scatter plots, bar charts, pie charts, histograms, and advanced techniques like sunburst charts and radar plots. These visualizations help understand patterns, trends, and insights in datasets. I will further update the last version on my Kaggle account.
 
 ## Features
 
@@ -61,8 +61,8 @@ fig.show()
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/machine-learning-data-visualization.git
-   cd machine-learning-data-visualization
+   git clone https://github.com/raccomandino/machine_learning_sample.git
+   cd machine_learning_sample
    ```
 2. Install the required libraries:
    ```bash
